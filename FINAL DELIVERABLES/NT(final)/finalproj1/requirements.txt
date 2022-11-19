@@ -1,0 +1,3 @@
+newsapi-python
+flask
+ibm_db
